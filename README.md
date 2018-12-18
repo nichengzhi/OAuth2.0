@@ -4,9 +4,7 @@ Starter Code for Auth&amp;Auth course
 
 **Note: If you already have a vagrant machine installed from previous Udacity courses skip to the 'Fetch the Source Code and VM Configuration' section**
 
-In Lessons 2,3 and 4 of this course, you'll use a virtual machine (VM) to run a web server and a web app that uses it. The VM is a Linux system that runs on top of your own machine.  You can share files easily between your computer and the VM.
 
-We're using the Vagrant software to configure and manage the VM. Here are the tools you'll need to install to get it running:
 
 ### Git
 
